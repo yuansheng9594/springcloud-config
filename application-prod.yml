@@ -1,2 +1,2 @@
 config:
- info: This is prod, version =1
+    info: config-client
